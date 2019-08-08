@@ -1,0 +1,10 @@
+D:\Aie Class\Intro to C#\Waypoint editor app\WayPointEditingApp\WayPointEditingApp\bin\Debug\WayPointEditingApp.exe.config
+D:\Aie Class\Intro to C#\Waypoint editor app\WayPointEditingApp\WayPointEditingApp\bin\Debug\WayPointEditingApp.exe
+D:\Aie Class\Intro to C#\Waypoint editor app\WayPointEditingApp\WayPointEditingApp\bin\Debug\WayPointEditingApp.pdb
+D:\Aie Class\Intro to C#\Waypoint editor app\WayPointEditingApp\WayPointEditingApp\obj\Debug\WayPointEditingApp.csprojAssemblyReference.cache
+D:\Aie Class\Intro to C#\Waypoint editor app\WayPointEditingApp\WayPointEditingApp\obj\Debug\WayPointEditingApp.Form1.resources
+D:\Aie Class\Intro to C#\Waypoint editor app\WayPointEditingApp\WayPointEditingApp\obj\Debug\WayPointEditingApp.Properties.Resources.resources
+D:\Aie Class\Intro to C#\Waypoint editor app\WayPointEditingApp\WayPointEditingApp\obj\Debug\WayPointEditingApp.csproj.GenerateResource.cache
+D:\Aie Class\Intro to C#\Waypoint editor app\WayPointEditingApp\WayPointEditingApp\obj\Debug\WayPointEditingApp.csproj.CoreCompileInputs.cache
+D:\Aie Class\Intro to C#\Waypoint editor app\WayPointEditingApp\WayPointEditingApp\obj\Debug\WayPointEditingApp.exe
+D:\Aie Class\Intro to C#\Waypoint editor app\WayPointEditingApp\WayPointEditingApp\obj\Debug\WayPointEditingApp.pdb
